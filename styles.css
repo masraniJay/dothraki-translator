@@ -1,7 +1,8 @@
 .header {
-    background-color: aqua;
+    background-color: white;
     text-align: center;
     height: 15vh;
+    color:  #064E3B;
 }
 
 h1 {
@@ -18,22 +19,25 @@ h1 {
     margin-right: auto;
     margin-top: 2rem;
     margin-bottom: 2rem;
+    border: solid #064E3B;
 }
 
 .button {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background-color: aqua;
+    background-color: white;
     width: 8rem;
     height: 2rem;
     margin-bottom: 1rem;
+    border: solid #064E3B;
 }
 
 .footer {
-    background-color: aqua;
+    background-color: white;
     text-align: center;
     height: 20vh;
+    color: #064E3B;
 }
 
 h2 {
